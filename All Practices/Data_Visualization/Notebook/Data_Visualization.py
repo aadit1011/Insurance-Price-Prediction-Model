@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load the Insurance Dataset
+# Load the Insurance dataset
 df = pd.read_csv('insurance.csv')
 
 # Display the first few rows of the dataset to understand its structure
